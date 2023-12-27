@@ -1,4 +1,3 @@
-1
 ![Logo](https://imgur.com/cCHAe36.png)
 
 # KRONOS - Booking Client
