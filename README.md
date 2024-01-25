@@ -1,6 +1,6 @@
 ![Logo](https://imgur.com/cCHAe36.png)
 
-1# KRONOS - Booking Client
+# KRONOS - Booking Client
 
 The client side of KRONOS, the ultimate tool for RFE, MSE, RFO events in IVAO. Built like a tank with a great developer experience.
 
